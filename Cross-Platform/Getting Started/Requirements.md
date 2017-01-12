@@ -2,19 +2,24 @@
 
 ###### Xamarin 사용을 위한 요구 사항
 
-Xamarin products rely upon the platform SDKs from Apple and Google to target iOS or Android, so our system requirements match theirs. This page outlines system compatibility for the Xamarin platform and recommended development environment and SDK versions.
+Xamarin 제품은 Apple과 Google의 플랫폼 SDK를 사용하여 iOS 또는 Android를 타겟팅하므로 그들의 시스템 요구사항과 일치합니다. 이 페이지에서는 Xamarin 플랫폼 및 권장 개발 환경과 SDK 버전에 대한 시스템 호환성을 간략하게 설명합니다.
 
-* [개발환경](##개발환경)
-* macOS Requirements  
-* Windows Requirements  
+* [개발환경](#개발환경)
+* [macOS 요구 사항](#macos-요구-사항)
+* [Windows 요구 사항](#windows-요구-사항)
 
-Visit the installation instructions for more information on obtaining the software and required SDKs.
+소프트웨어 및 필요한 SDK를 얻는 방법에 대한 자세한 내용은 설치 지침을 참조하십시오.
 
 ## 개발환경
 
 ## macOS 요구 사항
 
+### MacOS에서 테스트 및 디버깅
+
 ## Windows 요구 사항
+
+## 설치 지침
+
 
 
 
