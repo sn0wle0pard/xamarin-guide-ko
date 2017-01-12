@@ -1,3 +1,3 @@
-# My Awesome Book
+# Xamarin 가이드 한국어 문서
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+https://developer.xamarin.com/guides/ 의 비공식 한국어 문서입니다. 아직 번역 중에 있습니다.
